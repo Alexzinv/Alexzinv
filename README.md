@@ -10,8 +10,6 @@
   </a>  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexzinv&title=MultiLanguage,Joined2020,Commit,Repositories,Stars&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
