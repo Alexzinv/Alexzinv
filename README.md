@@ -20,7 +20,8 @@
   </a>  
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alexzinv&title=MultiLanguage,Joined2020,Commit,Repositories,Stars&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Alexzinv/Alexzinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
