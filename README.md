@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
 
+![](https://komarev.com/ghpvc/?username=Alexzinv&color=ff69b4)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
