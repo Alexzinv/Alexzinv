@@ -9,7 +9,7 @@
   </a>  
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alexzinv&title=MultiLanguage,Joined2020,Commit,Repositories,Stars&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alexzinv&title=MultiLanguage,Joined2018,Commit,Repositories,Stars&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Alexzinv/Alexzinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
