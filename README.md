@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&count_private=true&show_icons=true&theme=synthwave" />
@@ -9,18 +9,7 @@
     <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=synthwave&repo=github-readme-stats&langs_count=15" />
   </a>  
 </p>
--->
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&count_private=true&show_icons=true&theme=algolia" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=algolia&repo=github-readme-stats&langs_count=15" />
-  </a>  
-</p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
