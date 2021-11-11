@@ -1,6 +1,9 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
 
+<p>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Alexzinv&color=ff69b4" />
+</p>
 ![](https://komarev.com/ghpvc/?username=Alexzinv&color=ff69b4)
 
 <p>
