@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
+
 
 ![](https://komarev.com/ghpvc/?username=Alexzinv&color=ff69b4)
 
