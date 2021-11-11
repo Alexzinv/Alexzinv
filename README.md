@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinvv&layout=compact&theme=synthwave&repo=github-readme-stats&langs_count=15" />
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=synthwave&repo=github-readme-stats&langs_count=15" />
   </a>
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=synthwave&repo=github-readme-stats&langs_count=15" />
