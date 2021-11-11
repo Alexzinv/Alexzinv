@@ -4,7 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=Alexzinv&color=ff69b4)
 
 <p>
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&count_private=true&show_icons=true&theme=synthwave" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&count_private=true&show_icons=true&theme=synthwave" />
+  </a>
 <!--   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=synthwave&repo=github-readme-stats&langs_count=15" />
