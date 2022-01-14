@@ -5,7 +5,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexzinv" alt="Alexzinv" /></p>
 
 [![Alexzinv's github stats](https://github-readme-stats.vercel.app/api?username=Alexzinv&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/Alexzinv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/Alexzinv)
 [![Alexzinv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alexzinv&layout=compact&bg_color=ffffff)](https://github.com/Alexzinv)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Alexzinv/Alexzinv/output/github-contribution-grid-snake.svg)
@@ -31,7 +30,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=buefy&count_private=true&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexzinv&show_icons=true&count_private=true&include_all_commits=true&theme=buefye&cache_seconds=1800&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzinv&layout=compact&theme=buefy&count_private=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexzinv&title=MultiLanguage,Joined2020,Commit,Repositories,Stars&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
